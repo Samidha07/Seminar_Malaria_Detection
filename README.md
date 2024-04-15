@@ -1,0 +1,1 @@
+# Seminar_Malaria_Detection
